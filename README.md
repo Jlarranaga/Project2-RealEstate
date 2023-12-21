@@ -16,10 +16,10 @@ As a user, I want the ability to...
   - delete my favorite home(s). 
 
   **WIREFRAME**
-  ![Alt text](image-2.png)
+  ![Wire Frame](image-1.png)
 
    **ERD**
-  ![Alt text](image.png)
+  ![ERD](image.png)
 
   **ICE BOX**<br/>
   Future Editions will have...<br/>
