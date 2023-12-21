@@ -15,11 +15,11 @@ As a user, I want the ability to...
   - read more details of individual homes. 
   - delete my favorite home(s). 
 
-  **WIREFRAME**
+  **WIREFRAME**<br/>
   ![Wire Frame](image-1.png)
 
-   **ERD**
-  ![ERD](image.png)
+   **ERD** <br/>
+  ![ERD](image.png)<br/>
 
   **ICE BOX**<br/>
   Future Editions will have...<br/>
